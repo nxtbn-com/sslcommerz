@@ -41,7 +41,7 @@ nano .env
 ## Step 1: Register for an SSLCommerz Developer Account
 
 1. **Visit the SSLCommerz Website**
-   - Go to the [SSLCommerz registration page](https://www.sslcommerz.com/registration/).
+   - Go to the [SSLCommerz registration page](https://developer.sslcommerz.com/registration/).
 
 2. **Fill Out the Registration Form**
    - Provide the necessary details such as your name, email, phone number, company name, and other required information.
